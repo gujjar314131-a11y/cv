@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+    /* font-family: sans-serif; */
+}
+
+html.body{
+    width: 100%;
+    height: 100%;
+    /* border: 0.5px solid black; */
+    border-radius: 10px;
+    margin: 100px;
+    padding: 70px 85px;
+}
+.main{
+    width: 84%;
+    height: 70%;
+    border: 1px solid black;
+    margin: 100px;
+    padding: 70px 85px;
+}
+
+.hr-style{
+    margin-bottom: 20px;
+    border-bottom: 3px solid #000;
+}
+.name{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.j{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.c{
+    margin-bottom: 20px;
+}
+.a{
+    margin-bottom: 20px;
+}
+.skills{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.v{
+    margin-bottom: 30px;
+}
+.s{
+    margin-bottom: 30px;
+}
+.education{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.d{
+    margin-bottom: 30px;
+}
+.experience{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.internet{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
